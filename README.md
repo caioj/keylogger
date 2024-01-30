@@ -1,4 +1,4 @@
-# Keylogger e Monitoramento - Projeto Desafio Módulo 2
+# Keylogger e Monitoramento
 
 Este é um projeto simples de keylogger e monitoramento para fins educacionais. O script Python é projetado para coletar informações do sistema, registros de teclas pressionadas, capturas de tela e conteúdo da área de transferência.
 
